@@ -1,0 +1,26 @@
+ 
+ 
+ /* Selettore universale */
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+ .collonasinistra{ 
+  display: flex;
+ justify-content: space-between;
+ gap: 200%;
+ margin: 0 auto;
+  max-width: 70%;
+  
+ ga
+
+ }
+ .collonasinistra img {
+  width: 48%;
+  height: auto;
+  max-width: 900px;
+  margin: 0 auto;
+  
+ }
